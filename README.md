@@ -16,7 +16,7 @@ BookSell is a web-based platform designed for seamless and secure book buying an
 
 BookSell combines security, efficiency, and a rich user experience, making it the ultimate online bookstore. 🚀
 
-# To execute this in your local sytem
+# To execute this in your local system
 1.Create a database, replace the connection string in appsetting.json to your string
 
 2.Update database
